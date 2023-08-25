@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anita-ebube
-- 👀 I’m interested in front-end develpoment||Ui/Ux 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in front-end develpoment
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on any project available
 - 📫 How to reach me 08112217552
 
